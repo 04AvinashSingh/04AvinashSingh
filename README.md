@@ -46,6 +46,17 @@ REST API supporting 3 subscription tiers with per-tenant request quotas enforced
 
 ---
 
+### ⛓️ [Crowdfunding DApp on Hedera Testnet](https://github.com/04AvinashSingh/Crowdfunding-)
+> React · Solidity · Thirdweb · Hedera Testnet · Web3
+
+A decentralized crowdfunding platform built on the Hedera blockchain — users can create campaigns, set funding goals, and accept contributions transparently on-chain.
+
+- Smart contracts written in Solidity and deployed to Hedera testnet via Thirdweb
+- All campaign data and transactions stored immutably on-chain — no centralized backend
+- React frontend with campaign creation, browsing, and contribution flows
+
+---
+
 ## 💼 Internship
 
 **Backend Developer Intern — Nija Venture Impacts Pvt. Ltd.** *(Jan 2026 – Apr 2026)*
@@ -61,7 +72,7 @@ REST API supporting 3 subscription tiers with per-tenant request quotas enforced
 | | |
 |---|---|
 | **Primary** | Java · Spring Boot · Spring Security · Spring Data JPA · REST API |
-| **Secondary** | Node.js · Express.js · JavaScript |
+| **Secondary** | Node.js · Express.js · JavaScript · Solidity |
 | **Databases** | PostgreSQL · MongoDB · Hibernate · JPA |
 | **Architecture** | Microservices · API Gateway · RBAC · Stateless Auth · Rate Limiting |
 | **DevOps** | Docker · Docker Compose · Jenkins CI/CD · AWS (EC2, S3) · Railway · Vercel |
