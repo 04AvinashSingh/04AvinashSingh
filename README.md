@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Avinash Kumar 👋</h1>
+<h1 align="center">Hi, I'm Avinash 👋</h1>
 
 <p align="center">
   <b>Java · Spring Boot · Microservices · PostgreSQL</b><br/>
