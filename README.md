@@ -93,7 +93,7 @@ A decentralized crowdfunding platform built on the Hedera blockchain — users c
 
 ## 🎓 Education & Certifications
 
-- **B.E. Electronics & Communication Engineering** — Bangalore Institute of Technology *(Expected May 2026)* · CGPA: 8.05/10
+- **B.E. Electronics & Communication Engineering** — Bangalore Institute of Technology *(Expected May 2026)* · CGPA: 8.3/10
 - **Juniper Networks Certified Associate – Cloud (JNCIA-Cloud)** *(Aug 2025)*
 
 ---
